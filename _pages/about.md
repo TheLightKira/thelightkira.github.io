@@ -25,4 +25,3 @@ Pienso centralizar información sobre los siguientes temas:
 - Ciberseguridad
 - Recomendaciones
 
-</div>
