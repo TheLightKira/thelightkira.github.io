@@ -118,3 +118,24 @@ ___________________________________________
 Rofi es un lanzador de aplicaciones/menu rapido, sirve para que puedes buscar y ejecutar la aplicacion que tu gustes de forma rapida, sencilla y por comandos de teclado. 
 Puedes personalizar el rofi con diferentes temas y elegir el que mas te guste, su interfaz es altamente configurable lo que permite configurarla al gusto de uno.
 
+**¿Qué es feh y porque es necesario complementarlo con bspwm?**
+
+___________________________________________
+
+La razon por la que necesitamos feh si vamos a usar bspwm es porque bspwm es un gestor de ventanas, no dibuja fondos ni barras por si mismo. Si queremos añadir un fondo de pantalla con bspwm tenemos que usar un programa externo en este caso usamos feh. 
+
+feh es un programa ligero para Linux que se usa principalmente para mostrar imágenes y poner fondos de pantalla. No consume casi recursos y se ejecuta en segundo plano sin interferir con bspwm. Simple y confiable. 
+
+
+**¿Qué es la Kitty?**
+
+___________________________________________
+
+Es como tmux solo que con esteroides, en mi parecer es mucho mejor usar la kitty que tmux. La kitty es un emulador de terminal moderno para sistemas operativos basadon en Unix como Linux y macOS. Es conocido por su capacidad de manejar graficos modernos como imagenes y emojis directamente en la terminal.
+
+Es super personalizable e incluye funcionalidades avanzadas como:
+
+- Diferentes pestañas 
+- División de ventanas 
+- Transparencia 
+- En el archivo kitty.config puedes cambiar colores, fuentes, atajos, etc.
